@@ -1,0 +1,2 @@
+# TimeSeriesAnalysis
+A TimeSeries Analysis model using ARIMA,ARMA,SARIMA,LASTM(FOR UNIVARIATE AND MULTIVARIATE) DATA
